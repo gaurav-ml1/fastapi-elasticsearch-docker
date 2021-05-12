@@ -48,3 +48,6 @@ Note- Be ensure you are in directory where Dockerfile and yml is there.
     **http://{IP}:8001/trade/?page=1&start=2015-02-11 00:00:00&end=2016-02-11 01:12:00**
 
     Note- I just implemented filter query for only datetime due to office load but it can be same as for date
+
+
+**Note- Please change IP(In app/es_connector.py) assigned to elastisearch container in your machine.**
