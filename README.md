@@ -1,6 +1,6 @@
-# API Developer Assessment
+# FastAPI with elasticsearch on docker container
 
-This repo contains solution regards to API Development Assignment(using fastapi and ES as DB).
+This repo contains how we can use fastapi with docker and connection with elasticsearch.
 
 **Tech stack:**
 
