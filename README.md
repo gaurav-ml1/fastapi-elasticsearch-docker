@@ -1,6 +1,6 @@
 # FastAPI with elasticsearch on docker container
 
-This repo contains how we can use fastapi with docker and connection with elasticsearch.
+This repo contains how we can use fastapi with docker and connected with elasticsearch(As a database).
 
 **Tech stack:**
 
